@@ -39900,5 +39900,21 @@
         }
       }
     ]
+  },
+  {
+    "timestamp": "2025-12-08T11:44:07.039855+00:00",
+    "changes": [
+      {
+        "product_id": 15306972463483,
+        "handle": "mama-yus-mini-chilli-oil-sambal-set",
+        "title": "Mama Yu's Mini Christmas Set",
+        "vendor": "Mama Yu (\u4f59\u5988\u5988)",
+        "change_type": "price_change",
+        "details": {
+          "old_price": "33.99",
+          "new_price": "34.99"
+        }
+      }
+    ]
   }
 ]
